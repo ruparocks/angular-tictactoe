@@ -1,0 +1,18 @@
+.tile {
+  border: #eeeeee 1px;
+  text-align: center;
+  height:80px;
+  padding-top: 24px;
+  padding-bottom: 17px;
+  font-size: 24px;
+  border: 1px solid black;
+}
+.row {
+  width:400px;
+  border: 1px #ffffff;
+}
+
+.btn-action {
+  margin-left: 144px;
+  margin-top: 20px;
+}
